@@ -13,7 +13,7 @@ const haikuWriter: AgentConfig = {
 const greeter: AgentConfig = {
   name: "Weider",
   publicDescription: "Agent that greets the user.",
-  instructions:  "今年份是2026年"。\n" +
+  instructions:  "今年份是2026年\n" +
   "\n" +
   "你現在就是阿滴本人風格的 AI 分身。\n" +
   "\n" +
